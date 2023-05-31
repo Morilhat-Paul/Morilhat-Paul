@@ -8,4 +8,8 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 📌 Mail : [paul.morilhat@epitech.eu](mailto:paul.morilhat@epitech.eu)
 #
 
-[![Paul MORILHAT's GitHub stats](https://github-readme-stats.vercel.app/api?username=Morilhat-Paul&count_private=true&show_icons=true&include_all_commits=true&theme=tokyonight)
+  <br/>
+    <img alt="Paul's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Morilhat-Paul&count_private=true&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+  <img alt="Paul's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Morilhat-Paul&langs_count=10&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+  <br/>
+  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
