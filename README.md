@@ -1,12 +1,7 @@
 <h1 align="center">
-  <br>
-  <br>
-  <br>
   👋  Paul MORILHAT
   <br>
 </h1>
-
-&nbsp;
 
 <h3 align="center">
   First year student at 
