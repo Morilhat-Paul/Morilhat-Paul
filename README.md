@@ -4,7 +4,7 @@
 </h1>
 
 <h3 align="center">
-  First year student at 
+  Second year student at 
   <a href="https://www.epitech.eu/">Epitech</a>
   Lyon
 </h3>
